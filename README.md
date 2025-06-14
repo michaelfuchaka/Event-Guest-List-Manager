@@ -1,0 +1,2 @@
+## EVENT GUEST LIST MANAGER
+This is a simple Event Guest List Manager built with HTML,CSS AND Javascript.This project allows users to enters guests categorically and update guest's name ,it also displays time when each guest was added.
