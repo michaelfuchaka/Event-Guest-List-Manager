@@ -62,3 +62,24 @@ button:hover{
     outline: 2px solid #2196f3;
     outline-offset: 2px;
  }
+/* style and resize remove guest button */
+ .del-button {
+  margin-left: 10px;
+  padding: 2px 6px;
+  font-size: 12 px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f08080;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease ;
+ }
+
+ .del-button:hover {
+  background-color:#d9534f
+
+ }
+ /* space between list items */
+ #guestlist li {
+  margin-bottom:10px; 
+ }

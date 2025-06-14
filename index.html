@@ -11,20 +11,19 @@
     <!-- Input -->
       <form id="EventGuestForm" action="">
          Name: <input id="text-input" class="input" type="text" placeholder="Enter Guests  Name" required>
-        <select name="Guest" id="guest-category">
+       <!-- Category -->
+         <select name="Guest" id="guest-category">
             <option value=""> please select category</option>
             <option class="category" value="Family">Family</option>
              <option class="category" value="Friend">Friend</option>
             <option class="category" value="colleague">colleague</option>
 
         </select>
-        
-        
-        <button type="submit" >Add Guest</button>
-
+        <!-- Button -->
+        <button type="button"  onclick="displayGuestList(event)" >Add Guest</button>
 
       </form>
-    
+        <!-- Guest List output -->
        <ul id="guestlist">
 
        </ul>
