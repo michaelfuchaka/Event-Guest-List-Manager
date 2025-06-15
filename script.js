@@ -27,7 +27,9 @@ function displayGuestList(event){
 
 // name display to the ul
 const nameText = document.createTextNode(name + " ");
-  li.appendChild(nameText);
+  li.style.borderBottom = '1px solid #ccc';
+  li.style.padding = '8px 0';
+  li.textContent=name;
 
 
   // Category color tags
