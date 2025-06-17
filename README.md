@@ -20,9 +20,9 @@ Users can:
 ## 📁 File Structure
 
 Event-Guest-List-Manager/
-├── index.html // Layout
-├── style.css // Styling
-└── index.js // JavaScript logic
+- index.html // Layout
+- style.css // Styling
+- index.js // JavaScript logic
 
 
 
