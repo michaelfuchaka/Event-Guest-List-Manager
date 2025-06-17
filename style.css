@@ -7,6 +7,11 @@ body {
   background-color: #f2f4f7;
   margin: 0;
   padding: 30px;
+    background-image: url("images/blurred2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .header {
@@ -115,10 +120,3 @@ button:focus {
   background-color: grey;
 }
 
-body {
-  background-image: url("images/blurred2.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
