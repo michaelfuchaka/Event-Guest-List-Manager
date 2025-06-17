@@ -49,13 +49,13 @@ cd Event-Guest-List-Manager
 
 ---
 
-##👤 Author
+## 👤 Author
 Michael Fuchaka
 Moringa School (SA.02 Week 2 Code Challenge)
 
 ---
 
-##📄 License
+## 📄 License
 MIT License
 © 2025 Michael Fuchaka
 
