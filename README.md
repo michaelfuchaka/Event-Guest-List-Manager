@@ -51,7 +51,7 @@ cd Event-Guest-List-Manager
 
 ## 👤 Author
 Michael Fuchaka
-Moringa School (SA.02 Week 2 Code Challenge)
+Moringa School, (SA.02 Week 2 Code Challenge)
 
 ---
 
