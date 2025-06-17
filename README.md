@@ -3,12 +3,12 @@ This is a simple Networking Event GuestbooK built with HTML,CSS and Jascript.Thi
 
 ## Features
 A User is able to:
-   Add guests with name and category i.e friend,family ,colleague
-   Display upto 10 guests 
-   Timestamp when guest was added
-   Toggle Rsvp
-   Category based color tags
-   Remove guest
+   -Add guests with name and category i.e friend,family ,colleague
+   -Display upto 10 guests 
+   -Timestamp when guest was added
+   -Toggle Rsvp
+   -Category based color tags
+   -Remove guest
 
    ## File Structure
    project folder
@@ -21,11 +21,18 @@ A User is able to:
    CSS3
    JAVASCRIPT   (DOM-MANIPULATION)
 
-   ## AUTHOR
+   ## Instructions to run the project locally
+   ```bash
+   git clone
+   git@github.com:michaelfuchaka/Event-Guest-List-Manager.git
+   cd Event-Guest-List-Manager.git
+   open index.html
+
+   ## Author
    MICHAEL FUCHAkA -MORINGA SCHOOL(SA.02 WEEK 2 CODE CHALLENGE)
    
-   ## LICENSE
-   Michael Fuchaka
-   copyright (c) 2025
+   ## License
+   MIT
+   copyright (c) 2025    Michael Fuchaka
 
 
